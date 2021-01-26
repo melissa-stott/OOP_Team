@@ -1,0 +1,23 @@
+{
+  "name": "oop_team",
+  "version": "1.0.0",
+  "description": "Project to create database of employees",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissa-stott/OOP_Team.git"
+  },
+  "author": "Melissa Stott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissa-stott/OOP_Team/issues"
+  },
+  "homepage": "https://github.com/melissa-stott/OOP_Team#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}
